@@ -1,0 +1,30 @@
+﻿@model projet_boutique_vinyle.Models.TTrack
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>TTrack</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TrackName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TrackName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DurationSec)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DurationSec)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdTracks">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

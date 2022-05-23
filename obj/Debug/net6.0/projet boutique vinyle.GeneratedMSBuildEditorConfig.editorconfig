@@ -1,0 +1,252 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = projet_boutique_vinyle
+build_property.RootNamespace = projet_boutique_vinyle
+build_property.ProjectDir = C:\Users\Anthony Paduwat\Desktop\projet boutique vinyle\projet boutique vinyle\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Anthony Paduwat\Desktop\projet boutique vinyle\projet boutique vinyle
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsTracks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1RyYWNrc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsTracks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1RyYWNrc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsTracks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1RyYWNrc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsTracks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1RyYWNrc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsTracks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1RyYWNrc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsVinylTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1ZpbnlsVHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsVinylTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1ZpbnlsVHlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsVinylTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1ZpbnlsVHlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsVinylTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1ZpbnlsVHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbumsVinylTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1ZpbnlsVHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TAlbums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFsYnVtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtistsGroups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNHcm91cHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtistsGroups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNHcm91cHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtistsGroups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNHcm91cHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtistsGroups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNHcm91cHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtistsGroups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNHcm91cHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TArtists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFydGlzdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGenres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdlbnJlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGenres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdlbnJlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGenres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdlbnJlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGenres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdlbnJlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGenres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdlbnJlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGroups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdyb3Vwc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGroups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdyb3Vwc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGroups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdyb3Vwc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGroups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdyb3Vwc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TGroups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEdyb3Vwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TLabels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExhYmVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TLabels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExhYmVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TLabels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExhYmVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TLabels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExhYmVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TLabels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVExhYmVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TTracks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRyYWNrc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TTracks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRyYWNrc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TTracks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRyYWNrc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TTracks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRyYWNrc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TTracks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRyYWNrc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TVinylTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFZpbnlsVHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TVinylTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFZpbnlsVHlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TVinylTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFZpbnlsVHlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TVinylTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFZpbnlsVHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/TVinylTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFZpbnlsVHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony Paduwat/Desktop/projet boutique vinyle/projet boutique vinyle/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hhkf047dxg
